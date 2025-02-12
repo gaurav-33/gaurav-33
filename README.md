@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gaurav 👋</h1>  
-<p align="center">🚀 Flutter Developer | 🎯 DSA Enthusiast | 🤖 AI & ML Explorer | 🎨 Member of HackSlash</p>  
+<p align="center">🚀 Flutter Developer | 🎯 DSA Enthusiast | 🤖 AI & ML Explorer | 🧑‍💻 Member of HackSlash NITP</p>  
 
 ---
 
