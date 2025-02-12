@@ -41,7 +41,7 @@
 ### 🚀 Featured Projects  
 - 🔹 [MessCoin](https://github.com/gaurav-33/messcoin) - A Digital Coupon System for Mess  
 - 🔹 [Self-Balancing Robot](https://github.com/gaurav-33/robotics) - Implementing PID Control  
-<! - 🔹 [Maze Solver Bot](https://github.com/gaurav-33/maze-bot) - Flood-Fill Algorithm Implementation  >
+<!-- - 🔹 [Maze Solver Bot](https://github.com/gaurav-33/maze-bot) - Flood-Fill Algorithm Implementation  -->
 
 ---
 
