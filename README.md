@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gaurav 👋</h1>  
-<p align="center">🚀 Flutter Developer | 🎯 DSA Enthusiast | 🤖 AI & ML Explorer | 🎨 Member of Expresso</p>  
+<p align="center">🚀 Flutter Developer | 🎯 DSA Enthusiast | 🤖 AI & ML Explorer | 🎨 Member of HackSlash</p>  
 
 ---
 
@@ -41,15 +41,15 @@
 ### 🚀 Featured Projects  
 - 🔹 [MessCoin](https://github.com/gaurav-33/messcoin) - A Digital Coupon System for Mess  
 - 🔹 [Self-Balancing Robot](https://github.com/gaurav-33/robotics) - Implementing PID Control  
-- 🔹 [Maze Solver Bot](https://github.com/gaurav-33/maze-bot) - Flood-Fill Algorithm Implementation  
+<! - 🔹 [Maze Solver Bot](https://github.com/gaurav-33/maze-bot) - Flood-Fill Algorithm Implementation  >
 
 ---
 
 ### 📬 Let's Connect  
 <p align="center">
-  <a href="https://www.linkedin.com/in/gaurav-kumar-33/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gaurav-suman-baa84328a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/gaurav-33"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:gauravsuman2k24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>  
 
 ---
