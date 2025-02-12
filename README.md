@@ -1,4 +1,7 @@
 <h1 align="center">Hi, I'm Gaurav 👋</h1>  
+
+
+<p> I am a passionate software developer with a keen interest in open source projects and a love for coding. I enjoy exploring new technologies and continuously improving my skills. </p>
 <p align="center">🚀 Flutter Developer | 🎯 DSA Enthusiast | 🤖 AI & ML Explorer | 🧑‍💻 Member of HackSlash NITP</p>  
 
 ---
