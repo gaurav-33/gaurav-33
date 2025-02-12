@@ -26,9 +26,9 @@
 ### 📊 Progress & Stats  
 
 #### 🚀 Coding Progress  
-- **Flutter & Dart**: ![80%](https://progress-bar.dev/80/?title=Proficient)  
-- **Firebase & Backend**: ![70%](https://progress-bar.dev/70/?title=Advanced)  
-- **Data Structures & Algorithms**: ![60%](https://progress-bar.dev/60/?title=Intermediate)  
+- **Flutter & Dart**: ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ (80%)
+- **Firebase & Backend**: ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ (70%)
+- **DSA & Algorithms**: ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜ (60%)
 
 #### ⚡ GitHub Stats  
 <p align="center">
