@@ -29,9 +29,9 @@
 ### 📊 Progress & Stats  
 
 #### 🚀 Coding Progress  
-- **Flutter & Dart**: ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ (80%)
-- **Firebase & Backend**: ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ (70%)
-- **DSA & Algorithms**: ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜ (60%)
+![Flutter Progress](https://img.shields.io/badge/Flutter-80%25-brightgreen?style=flat)
+![Firebase Progress](https://img.shields.io/badge/Firebase-70%25-orange?style=flat)
+![DSA Progress](https://img.shields.io/badge/DSA-60%25-red?style=flat)
 
 #### ⚡ GitHub Stats  
 <p align="center">
