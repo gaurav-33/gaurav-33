@@ -39,8 +39,9 @@
 ---
 
 ### 🚀 Featured Projects  
-- 🔹 [MessCoin](https://github.com/gaurav-33/messcoin) - A Digital Coupon System for Mess  
-- 🔹 [Self-Balancing Robot](https://github.com/gaurav-33/robotics) - Implementing PID Control  
+- 🔹 [MessCoin](https://github.com/gaurav-33/mess-coin) - A Digital Coupon System for Mess  
+- 🔹 [Self-Balancing Robot](https://github.com/gaurav-33/robotics) - Implementing PID Control
+- 🔹 [McQuizXam](https://github.com/gaurav-33/mcquizxam) - A feature-rich quiz app built with Flutter and Firebase, supporting multiple categories, real-time leaderboards, user authentication, and test analytics. Designed for competitive exam preparation, it offers an intuitive UI, a seamless test-taking experience, and admin controls for question management. 🚀
 <!-- - 🔹 [Maze Solver Bot](https://github.com/gaurav-33/maze-bot) - Flood-Fill Algorithm Implementation  -->
 
 ---
