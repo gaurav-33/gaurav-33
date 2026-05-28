@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gaurav%20Suman&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%C2%B7%20Backend%20%C2%B7%20DSA%20Enthusiast&descAlignY=58&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gaurav%20Suman&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Mobile%20Developer%20%C2%B7%20Backend%20%C2%B7%20DSA%20Enthusiast&descAlignY=58&descSize=16)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=gaurav-33&label=Profile%20Views&color=e94560&style=for-the-badge)](https://github.com/gaurav-33)
 [![Followers](https://img.shields.io/github/followers/gaurav-33?label=Followers&style=for-the-badge&color=1a1a2e&labelColor=0d1117)](https://github.com/gaurav-33)
@@ -18,7 +18,7 @@
 │   Name        │  Gaurav Suman                                      │
 │   Role        │  Mobile & Backend Developer                        │
 │   Focus       │  Mobile Apps · Backend Systems · Data Structures   │
-│   Stack       │  Flutter · React Native · Node.js · Firebase       │
+│   Stack       │  Flutter · React Native · Node.js · PostgreSQL     │
 │   Location    │  NIT Patna, India                                  │
 │   Status      │  Open to internship / entry-level opportunities    │
 │                                                                    │
@@ -33,11 +33,11 @@
 <tr>
 <td width="50%" valign="top">
 
-Mobile और Backend Developer हूँ। Flutter, Dart, React Native, और Expo से mobile apps और Node.js + Express से backend systems बनाता हूँ।
+Mobile and Backend Developer with expertise in building cross-platform applications. I develop mobile apps using Flutter, Dart, React Native, and Expo, and backend systems with Node.js and Express.
 
-मेरा फोकस: Full-stack mobile application development, cross-platform app development, Firebase integration, REST APIs, ���र Data Structure optimization पर है। Real-world projects में Firebase realtime database, PostgreSQL (Neon), Drizzle ORM, और MongoDB जैसी technologies का उपयोग करता हूँ।
+My focus areas are full-stack mobile application development, cross-platform app development, Firebase integration, REST APIs, and data structure optimization. In real-world projects, I work with Firebase Realtime Database, PostgreSQL (Neon), Drizzle ORM, and MongoDB.
 
-**वर्तमान प्रोजेक्ट्स:**
+**Current Projects:**
 - 🪙 MessCoin — Digital Coupon System
 - 🎯 McQuizXam — Quiz & Leaderboard Platform
 - 📚 DSA Problem Solving
@@ -127,7 +127,7 @@ const gaurav = {
 
 ### 🪙 [MessCoin](https://github.com/gaurav-33/messcoin)
 
-डिजिटल कूपन सिस्टम for mess management. Flutter + Firebase से built।
+Digital coupon system for mess management. Built with Flutter and Firebase.
 
 **Stack:** `Flutter` `Dart` `Firebase` `Realtime Database`
 
@@ -142,7 +142,7 @@ const gaurav = {
 
 ### 🎯 [McQuizXam](https://github.com/gaurav-33/mcquizxam)
 
-Feature-rich quiz application with real-time leaderboards और multiple categories।
+Feature-rich quiz application with real-time leaderboards and multiple categories.
 
 **Stack:** `Flutter` `Dart` `Firebase` `Realtime DB`
 
@@ -180,7 +180,7 @@ Feature-rich quiz application with real-time leaderboards और multiple catego
 ![React Native Progress](https://img.shields.io/badge/React%20Native-75%25-61dafb?style=flat)
 ![Firebase Progress](https://img.shields.io/badge/Firebase-75%25-orange?style=flat)
 ![Backend Progress](https://img.shields.io/badge/Backend%20Dev-70%25-blue?style=flat)
-![PostgreSQL/Drizzle Progress](https://img.shields.io/badge/PostgreSQL%20%26%20Drizzle-70%25-4169e1?style=flat)
+![PostgreSQL & Drizzle Progress](https://img.shields.io/badge/PostgreSQL%20%26%20Drizzle-70%25-4169e1?style=flat)
 ![DSA Progress](https://img.shields.io/badge/DSA-65%25-red?style=flat)
 
 ---
