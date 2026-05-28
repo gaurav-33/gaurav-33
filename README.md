@@ -31,26 +31,20 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
 I am a Mobile and Backend Developer with expertise in building cross-platform applications. I develop mobile apps using Flutter, Dart, React Native, and Expo, and backend systems with Node.js and Express.
 
 My focus areas include full-stack mobile application development, cross-platform app development, Firebase integration, REST APIs, and data structure optimization. In real-world projects, I work with Firebase Realtime Database, PostgreSQL (Neon), Drizzle ORM, and MongoDB.
 
 **Current Projects:**
-- 🪙 MessCoin — Digital Coupon System
-- 🎯 McQuizXam — Quiz & Leaderboard Platform  
+- 🪙 MessCoin
+- 🎯 McQuizXam
 - 📚 DSA Problem Solving
-- 🌱 Backend Development with Node.js
-
-**Technologies I Use:**
-- **Mobile:** Flutter, React Native, Expo, Firebase
-- **Backend:** Node.js, Express.js, JWT
-- **Database:** PostgreSQL, MongoDB, Firebase Realtime DB, Neon, Drizzle ORM
-- **Languages:** Dart, JavaScript, C++
+- 🌱 Backend Development
 
 </td>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ```typescript
 const gaurav = {
@@ -59,35 +53,11 @@ const gaurav = {
   education: 'B.Tech in ECE',
 
   stack: {
-    mobile: [
-      'Flutter',
-      'Dart',
-      'React Native',
-      'Expo',
-      'Firebase'
-    ],
-    backend: [
-      'Node.js',
-      'Express.js',
-      'JWT'
-    ],
-    database: [
-      'PostgreSQL',
-      'MongoDB',
-      'Firebase Realtime DB',
-      'Neon',
-      'Drizzle ORM'
-    ],
-    tools: [
-      'Git',
-      'Figma',
-      'Postman'
-    ],
-    languages: [
-      'Dart',
-      'JavaScript',
-      'C++'
-    ],
+    mobile: ['Flutter', 'Dart', 'React Native', 'Expo', 'Firebase'],
+    backend: ['Node.js', 'Express.js', 'JWT'],
+    database: ['PostgreSQL', 'MongoDB', 'Firebase Realtime DB', 'Neon', 'Drizzle ORM'],
+    tools: ['Git', 'Figma', 'Postman'],
+    languages: ['Dart', 'JavaScript', 'C++'],
   },
 
   interests: [
