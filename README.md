@@ -13,7 +13,7 @@
 ## ◈ whoami
 
 ```
-╭──────────────────────────── gaurav@nitp ───────────────���───────────╮
+╭──────────────────────────── gaurav@nitp ───────────────────────────╮
 │                                                                    │
 │   Name        │  Gaurav Suman                                      │
 │   Role        │  Mobile & Backend Developer                        │
@@ -31,24 +31,26 @@
 
 <table>
 <tr>
-<td width="40%" valign="top">
+<td width="50%" valign="top">
 
-**Mobile Development**
+I am a Mobile and Backend Developer with expertise in building cross-platform applications. I develop mobile apps using Flutter, Dart, React Native, and Expo, and backend systems with Node.js and Express.
 
-I specialize in building cross-platform mobile applications using Flutter and React Native. With expertise in Dart and JavaScript, I create responsive and performant applications for both iOS and Android platforms.
+My focus areas include full-stack mobile application development, cross-platform app development, Firebase integration, REST APIs, and data structure optimization. In real-world projects, I work with Firebase Realtime Database, PostgreSQL (Neon), Drizzle ORM, and MongoDB.
 
-**Technologies:**
-- Flutter & Dart for native performance
-- React Native & Expo for rapid development
-- Firebase Realtime Database for real-time sync
-- Firebase Authentication & Cloud Services
+**Current Projects:**
+- 🪙 MessCoin — Digital Coupon System
+- 🎯 McQuizXam — Quiz & Leaderboard Platform  
+- 📚 DSA Problem Solving
+- 🌱 Backend Development with Node.js
 
-**Current Mobile Projects:**
-- 🪙 **MessCoin** — Digital Coupon System
-- 🎯 **McQuizXam** — Quiz & Leaderboard Platform
+**Technologies I Use:**
+- **Mobile:** Flutter, React Native, Expo, Firebase
+- **Backend:** Node.js, Express.js, JWT
+- **Database:** PostgreSQL, MongoDB, Firebase Realtime DB, Neon, Drizzle ORM
+- **Languages:** Dart, JavaScript, C++
 
 </td>
-<td width="20%" valign="center">
+<td width="50%" valign="top">
 
 ```typescript
 const gaurav = {
@@ -58,53 +60,48 @@ const gaurav = {
 
   stack: {
     mobile: [
-      'Flutter', 'Dart', 
-      'React Native', 'Expo', 
+      'Flutter',
+      'Dart',
+      'React Native',
+      'Expo',
       'Firebase'
     ],
     backend: [
-      'Node.js', 'Express.js', 
+      'Node.js',
+      'Express.js',
       'JWT'
     ],
     database: [
-      'PostgreSQL', 'MongoDB', 
-      'Firebase Realtime DB', 
-      'Neon', 'Drizzle ORM'
+      'PostgreSQL',
+      'MongoDB',
+      'Firebase Realtime DB',
+      'Neon',
+      'Drizzle ORM'
     ],
-    tools: ['Git', 'Figma', 'Postman'],
-    languages: ['Dart', 'JavaScript', 'C++'],
+    tools: [
+      'Git',
+      'Figma',
+      'Postman'
+    ],
+    languages: [
+      'Dart',
+      'JavaScript',
+      'C++'
+    ],
   },
 
   interests: [
-    'Full-Stack Mobile Dev',
-    'Cross-Platform Apps',
+    'Full-Stack Mobile Development',
+    'Cross-Platform Development',
     'UI/UX Design',
-    'DSA & Algorithms',
-    'Open Source',
+    'Data Structures & Algorithms',
+    'Open Source Contribution'
   ],
 
   currentlyBuilding: 'messcoins & quiz-platform',
   motto: 'Build. Learn. Improve.',
 };
 ```
-
-</td>
-<td width="40%" valign="top">
-
-**Backend Development**
-
-I build scalable backend systems using Node.js and Express.js with strong emphasis on RESTful API design and database optimization. I work with both relational and NoSQL databases to create robust server-side solutions.
-
-**Technologies:**
-- Node.js & Express.js for server applications
-- PostgreSQL & Neon for relational databases
-- Drizzle ORM for type-safe database queries
-- MongoDB for flexible document storage
-- JWT for secure authentication
-
-**Current Backend Projects:**
-- 📚 **DSA Problem Solving** — Algorithm Implementation
-- 🌱 **Backend Development** — REST API Architecture
 
 </td>
 </tr>
