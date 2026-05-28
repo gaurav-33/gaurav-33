@@ -16,9 +16,9 @@
 ╭──────────────────────────── gaurav@nitp ───────────────────────────╮
 │                                                                    │
 │   Name        │  Gaurav Suman                                      │
-│   Role        │  Flutter & Backend Developer                       │
+│   Role        │  Mobile & Backend Developer                        │
 │   Focus       │  Mobile Apps · Backend Systems · Data Structures   │
-│   Stack       │  Flutter · Dart · Node.js · Firebase · MongoDB     │
+│   Stack       │  Flutter · React Native · Node.js · Firebase       │
 │   Location    │  NIT Patna, India                                  │
 │   Status      │  Open to internship / entry-level opportunities    │
 │                                                                    │
@@ -33,9 +33,9 @@
 <tr>
 <td width="50%" valign="top">
 
-Flutter और Backend Developer हूँ। Dart + Flutter से mobile apps और Node.js + Express से backend systems बनाता हूँ।
+Mobile और Backend Developer हूँ। Flutter, Dart, React Native, और Expo से mobile apps और Node.js + Express से backend systems बनाता हूँ।
 
-मेरा फोकस: Full-stack mobile application development, Firebase integration, REST APIs, और Data Structure optimization पर है। Real-world projects में Firebase realtime database, JWT authentication, और MongoDB जैसी technologies का उपयोग करता हूँ।
+मेरा फोकस: Full-stack mobile application development, cross-platform app development, Firebase integration, REST APIs, ���र Data Structure optimization पर है। Real-world projects में Firebase realtime database, PostgreSQL (Neon), Drizzle ORM, और MongoDB जैसी technologies का उपयोग करता हूँ।
 
 **वर्तमान प्रोजेक्ट्स:**
 - 🪙 MessCoin — Digital Coupon System
@@ -48,20 +48,21 @@ Flutter और Backend Developer हूँ। Dart + Flutter से mobile apps 
 
 ```typescript
 const gaurav = {
-  role: 'Flutter & Backend Developer',
+  role: 'Mobile & Backend Developer',
   location: 'NIT Patna, India',
   education: 'B.Tech in ECE',
 
   stack: {
-    mobile:    ['Flutter', 'Dart', 'Firebase'],
+    mobile:    ['Flutter', 'Dart', 'React Native', 'Expo', 'Firebase'],
     backend:   ['Node.js', 'Express.js', 'JWT'],
-    data:      ['MongoDB', 'Firebase Realtime DB'],
+    database:  ['PostgreSQL', 'MongoDB', 'Firebase Realtime DB', 'Neon', 'Drizzle ORM'],
     tools:     ['Git', 'Figma', 'Postman'],
     languages: ['Dart', 'JavaScript', 'C++'],
   },
 
   interests: [
     'Full-Stack Mobile Development',
+    'Cross-Platform Development',
     'UI/UX Design',
     'Data Structures & Algorithms',
     'Open Source Contribution',
@@ -90,8 +91,10 @@ const gaurav = {
 **Mobile Development**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 **Backend & Frameworks**
 
@@ -101,8 +104,11 @@ const gaurav = {
 
 **Data & Storage**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=postgresql&logoColor=black)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F64F?style=for-the-badge&logo=drizzle&logoColor=black)
 
 **Tools & DevOps**
 
@@ -171,8 +177,10 @@ Feature-rich quiz application with real-time leaderboards और multiple catego
 ## ◈ Coding Progress
 
 ![Flutter Progress](https://img.shields.io/badge/Flutter-80%25-brightgreen?style=flat)
+![React Native Progress](https://img.shields.io/badge/React%20Native-75%25-61dafb?style=flat)
 ![Firebase Progress](https://img.shields.io/badge/Firebase-75%25-orange?style=flat)
 ![Backend Progress](https://img.shields.io/badge/Backend%20Dev-70%25-blue?style=flat)
+![PostgreSQL/Drizzle Progress](https://img.shields.io/badge/PostgreSQL%20%26%20Drizzle-70%25-4169e1?style=flat)
 ![DSA Progress](https://img.shields.io/badge/DSA-65%25-red?style=flat)
 
 ---
